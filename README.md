@@ -4,7 +4,7 @@ A comprehensive showcase of my React development journey through hands-on projec
 
 ## 🌟 Live Demo
 
-[View Live Demo on Netlify](https://your-netlify-url.netlify.app) *(Will be updated after deployment)*
+[View Live Demo on Netlify](https://react-learning-journey.netlify.app/)
 
 ## 📋 Projects Overview
 
